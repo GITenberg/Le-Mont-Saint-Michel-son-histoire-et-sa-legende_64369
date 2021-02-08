@@ -1,0 +1,43 @@
+_repo: Le-Mont-Saint-Michel-son-histoire-et-sa-legende_64369
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Thorigny, Félix
+    alias: Thorigny, Felix
+    birthdate: 1824
+    deathdate: 1870
+    gutenberg_agent_id: '52870'
+    url: http://www.gutenberg.org/2009/agents/52870
+creator:
+  author:
+    agent_name: Amory de Langerack, Joséphine
+    aliases:
+    - Langerack, Joséphine Amory de
+    - Amory de Langerack, Josephine
+    birthdate: 1800
+    deathdate: 1860
+    gutenberg_agent_id: '52869'
+    url: http://www.gutenberg.org/2009/agents/52869
+description: ''
+gutenberg_issued: '2021-01-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64369'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Le Mont-Saint-Michel (France)'
+- !lcc 'DC'
+- GITenberg
+tableOfContents: Origines -- Un lieu prédestiné -- La prophétie de Richard de Toustain
+  -- L'abbaye du mont Saint-Michel -- La légende du rocher de Tombelène -- L'archange
+  protecteur -- Guillaume de Normandie -- Les fils du conquérant -- Les rois suzerains
+  -- La trahison -- Le repentir -- Nicolas le Vitrier -- La famille de Duguesclin
+  -- Les abbés du mont Saint-Michel -- Français ou Anglais -- Détresse et victoire
+  -- Jeanne d'Arc et l'Avranchin -- L'ordre de Saint-Michel -- Guillaume Postel --
+  Les protestants et le mont Saint-Michel -- Les gouverneurs du mont Saint-Michel
+  -- La pèlerinage des rois -- Le retour de l'archange.
+title: Le Mont Saint-Michel, son histoire et sa légende
+url: http://www.gutenberg.org/ebooks/64369
